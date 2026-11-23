@@ -62,9 +62,9 @@ Here is a curated list of popular and practical AI tools for design, covering UI
 - Description: Instantly create professional product images with AI, including lifestyle backgrounds for e-commerce.
 - Website: https://pebblely.com/
 
-### 5. Booth AI
-- Description: AI product photography generator, turn simple product shots into studio-quality images for online stores.
-- Website: https://booth.ai/
+### 5. Caspa AI
+- Description: AI product photos and videos for online stores.
+- Website: https://www.caspa.ai/
 
 ### 6. CopyMonkey
 - Description: AI tool for generating and optimizing Amazon product listings, including titles, bullet points, and descriptions.
